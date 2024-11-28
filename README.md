@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azeem</h1>
 <h3 align="center">A passionate Frontend developer from Islamabad,Pakistan</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Web Developer Chilling" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemdev74&label=Profile%20views&color=0e75b6&style=flat" alt="azeemdev74" /> </p>
 
